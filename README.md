@@ -33,7 +33,8 @@ To ensure fairness and safety, the AI follows these programmed "Harlem Rules":
 ## 5. Evaluation & Reflection
 **Benefits:** Improves pedestrian safety while guaranteeing economic space for the Harlem community. 
 **Limitations:** Requires vendors to have active mobile data; cannot predict emergency street closures perfectly.
-**AI Reflection:** AI serves as an "Impartial Referee," removing human bias from space allocation and ensuring that local residents aren't priced out of their own neighborhood's foot traffic.
+**AI Reflection:** AI serves as an "Impartial Referee," removing human bias from space allocation and ensuring that local residents aren't priced out of their own neighborhood's foot traffic
 
 ---
-*Created for the Harlem Pedestrian Project - 2026*
+
+
