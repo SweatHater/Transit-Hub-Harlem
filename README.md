@@ -35,7 +35,12 @@ To ensure fairness and safety, the AI follows these programmed "Harlem Rules":
 **Limitations:** Requires vendors to have active mobile data; cannot predict emergency street closures perfectly.
 **AI Reflection:** AI serves as an "Impartial Referee," removing human bias from space allocation and ensuring that local residents aren't priced out of their own neighborhood's foot traffic
 
+## 6. AI Placement Engine (The Logic)
 
+**Category Buffering:** Automatically places vendors selling similar items (like two bakeries) at least 50 feet apart to prevent repetitive clusters. 
+**Anchor Distribution:** Spreads high-demand categories across the park to ensure balanced foot traffic for all vendors. 
+**Hyper-Local Priority:** Recognizes Harlem zip codes and prioritizes those vendors for high-visibility "Tier 1" slots.
+**Diversity Balance:** Monitors the ratio of product types (Food, Crafts, Produce) to ensure a fair and balanced market layout. 
 ---
 
 # Phase 3: AI Placement Logic (The Harlem Hub Engine)
