@@ -157,7 +157,5 @@ The following prompts were used to develop the Harlem Hub prototype:
 
 ### Meeting Notes
 * **Session 1:** Defined the problem of "Transit Hub Chaos."
-* **Session 2:** Developed the "Harlem-First" priority weighting system.
-**Session 3:** Evaluated system limitations (e.g., weather and phone battery life).
 
 
